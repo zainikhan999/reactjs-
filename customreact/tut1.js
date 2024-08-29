@@ -1,0 +1,14 @@
+var num=22;
+var name="Zainab";
+// document.write("MY name is"num"i am "num"years old");
+console.log("MY name is "+name+"I am "+num+"old");
+console.log(typeof('100'/50));
+console.log(typeof('100'-'50'));
+console.log(typeof('100'* true));
+console.log(typeof('100' - false));
+console.log(typeof('tp'/50));
+console.log('100'/50);
+console.log('100'-'50');
+console.log('100'* true);
+console.log('100' - false);
+console.log('tp'/50);
